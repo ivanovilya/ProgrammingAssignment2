@@ -15,7 +15,6 @@ makeCacheMatrix <- function(x = matrix()) {
   
 }
 
-
 ## Return a matrix that is the solve of 'x'. 
 ##If x is not changed return cached value/
 
